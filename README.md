@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-API-red?logo=keras)](https://keras.io/)
 [![MobileNetV2](https://img.shields.io/badge/MobileNetV2-TransferLearning-green)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b?logo=streamlit)](https://streamlit.io/)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend-black)
 [![Hugging Face Spaces](https://img.shields.io/badge/View%20on-Hugging%20Face-yellow?logo=huggingface)](https://huggingface.co/spaces/manishika/skin-undertone)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ModelEval-blueviolet?logo=scikitlearn)](https://scikit-learn.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Array%20Ops-purple?logo=numpy)](https://numpy.org/)
